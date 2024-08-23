@@ -37,6 +37,6 @@ since such cost is amortized by the writer's own coginitive processes.
 ## Technical Aspects
 
 The semantical metadata MIGHT be stored within an instance of the
-Virtuoso Open Source server or structured in RDF format and stored in
+[Virtuoso Open Source](https://vos.openlinksw.com/owiki/wiki/VOS#Functionality%20Realms) server or structured in [RDF](https://www.w3.org/RDF/) format and stored in
 a database system that is reasonably valid for the purposes of not
 uneasily querying words and definitions.
