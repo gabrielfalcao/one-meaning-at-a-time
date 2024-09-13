@@ -40,3 +40,27 @@ The semantical metadata MIGHT be stored within an instance of the
 [Virtuoso Open Source](https://vos.openlinksw.com/owiki/wiki/VOS#Functionality%20Realms) server or structured in [RDF](https://www.w3.org/RDF/) format and stored in
 a database system that is reasonably valid for the purposes of not
 uneasily querying words and definitions.
+
+
+## REMARKS
+
+- It appears that, in forming one's individual lexicon and considering
+  two distinct languages, one might occasionaly assume, in not at all
+  invstigating the proper meanings in valid dictionaries of both
+  languages, that certain words whose ortography display certain
+  patterns which not uncommonly point to equivalent linguistic
+  elements could, in fact, permit the noninvestigated translation of such words.
+  - Considering, for example, the English and Portuguese languages
+    whence the suffixes "-bly" and "-mente", respectively, occasionaly
+    appear to indicate the transformation of an adjective into an
+    adverb.
+    - Yet as an example the english word "ostensibly" and the
+      portuguese word "ostensivamente" might intuitively seem,
+      erroneously, to have the same meaning, but appear to have quite different meanings.
+  - One quite critical example of such nondesirable misunderstanding
+    is that of the english word "paradox" and the portuguese word
+    "paradoxo" whose meanings appear to be entirely different.
+
+  - Reference dictionaries:
+    - English: Online Google search sourced in the Oxford dictionary
+    - Portuguese: Physical copy of the "Dicionário da Academia Brasileira de Letras"
